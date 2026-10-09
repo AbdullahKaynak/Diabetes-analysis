@@ -4,9 +4,9 @@ Bu proje, Python ve veri bilimi kütüphaneleri (`Pandas`, `Matplotlib`, `Seabor
 
 ## 🚀 Projede Yapılan Adımlar
 1. **Veri Yükleme ve İnceleme:** Veri setinin okunması ve ilk 5 satırın incelenmesi.
-2. **Boyut Analizi:** Satır ve sütun sayılarının tespiti (`768 satır, 9 sütun`)[cite: 8].
+2. **Boyut Analizi:** Satır ve sütun sayılarının tespiti (`768 satır, 9 sütun`)
 3. **Veri Tipleri ve Bilgiler:** `df.info()` kullanılarak değişkenlerin türlerinin kontrol edilmesi[cite: 8].
-4. **İstatistiksel Özet:** `df.describe()` ile ortalama, standart sapma, çeyreklik dilimler (min, max, %25, %50, %75) ve dağılımların incelenmesi[cite: 8].
+4. **İstatistiksel Özet:** `df.describe()` ile ortalama, standart sapma, çeyreklik dilimler (min, max, %25, %50, %75) ve dağılımların incelenmesi
 5. **Eksik Değer Kontrolü:** Null/eksik verilerin tespiti.
 6. **Görselleştirme:** `Matplotlib` kullanılarak hastaların (Diabetic / Not Diabetic) oranlarını gösteren pasta grafiği (`Pie Chart`) oluşturulması.
 
